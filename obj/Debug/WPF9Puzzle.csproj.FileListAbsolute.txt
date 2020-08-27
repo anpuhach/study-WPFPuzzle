@@ -1,0 +1,30 @@
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\MainWindow.g.cs
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\App.g.cs
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle_MarkupCompile.cache
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle_MarkupCompile.lref
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\MainWindow.baml
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.g.resources
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.pdb
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\bin\Debug\WPF9Puzzle.exe.config
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\bin\Debug\WPF9Puzzle.exe
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\bin\Debug\WPF9Puzzle.pdb
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.Properties.Resources.resources
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.csproj.GenerateResource.cache
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.csproj.CoreCompileInputs.cache
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.exe
+D:\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.csprojAssemblyReference.cache
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\bin\Debug\WPF9Puzzle.exe.config
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\bin\Debug\WPF9Puzzle.exe
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\bin\Debug\WPF9Puzzle.pdb
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.csprojAssemblyReference.cache
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\MainWindow.g.cs
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\App.g.cs
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle_MarkupCompile.cache
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle_MarkupCompile.lref
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\MainWindow.baml
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.g.resources
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.Properties.Resources.resources
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.csproj.GenerateResource.cache
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.csproj.CoreCompileInputs.cache
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.exe
+D:\Main data\Projects\coding\VS\cs\WPF9Puzzle\WPF9Puzzle\obj\Debug\WPF9Puzzle.pdb

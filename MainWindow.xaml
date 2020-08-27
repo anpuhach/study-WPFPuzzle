@@ -1,0 +1,111 @@
+﻿<Window x:Class="WPF9Puzzle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF9Puzzle"
+        mc:Ignorable="d"
+        Title="9Puzzle" WindowStartupLocation="CenterScreen" Height="433" Width="383" WindowStyle="SingleBorderWindow" MaxHeight="433" MinHeight="433" MinWidth="410" MaxWidth="410">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Rectangle x:Name="p1" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/1.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+        <Rectangle x:Name="p2" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" Grid.Column="1" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/2.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+        <Rectangle x:Name="p3" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" Grid.Column="2" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/3.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+        <Rectangle x:Name="p4" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" Grid.Row="1" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/4.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+        <Rectangle x:Name="p5" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" Grid.Column="1" Grid.Row="1" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/5.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+        <Rectangle x:Name="p6" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" Grid.Column="2" Grid.Row="1" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/6.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+        <Rectangle x:Name="p7" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" Grid.Row="2" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/7.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+        <Rectangle x:Name="p8" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" Grid.Column="1" Grid.Row="2" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/8.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+        <Rectangle x:Name="p9" StrokeThickness="0" HorizontalAlignment="Left" Height="134" Stroke="Black" VerticalAlignment="Top" Width="134" Grid.Column="2" Grid.Row="2" MouseDown="Rectangle_MouseDown" Loaded="pLoaded">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Resources/9.jpg" />
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <TransformGroup>
+                    <RotateTransform Angle="0"/>
+                </TransformGroup>
+            </Rectangle.LayoutTransform>
+        </Rectangle>
+    </Grid>
+</Window>
